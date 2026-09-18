@@ -1,5 +1,3 @@
-
-```markdown
 # 🛡️ BugHunter Toolkit
 
 An advanced, modular, and high-performance automated reconnaissance utility written in Go, designed specifically for Bug Bounty hunters and penetration testers.
@@ -42,7 +40,6 @@ go build -o bughunter.exe
 
 # Build the binary (Linux / Kali)
 GOOS=linux GOARCH=amd64 go build -o bughunter
-```
 
 ## 🚀 Usage
 
