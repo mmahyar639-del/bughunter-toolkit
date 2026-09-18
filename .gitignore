@@ -1,0 +1,27 @@
+# Executable files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.html
+*.json
+bughunter-linux
+
+# Test files
+test_*.go
+test_*.txt
+test_*.html
+help.txt
+test_*.js
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Output directory (optional, if you want to keep reports private)
+# output/
