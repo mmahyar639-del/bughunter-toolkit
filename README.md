@@ -1,4 +1,3 @@
-```markdown
 # 🛡️ BugHunter Toolkit
 
 An advanced, modular, and high-performance automated reconnaissance utility written in Go, designed specifically for Bug Bounty hunters and penetration testers.
